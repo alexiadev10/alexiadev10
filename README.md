@@ -1,4 +1,4 @@
 ### Hi there 👋
-Carioca, 28 anos e estou migrando de profissão.
+Carioca, 29 anos e formada em Odontologia. 
 Aprendendo: HTML,CSS e iniciando no Javascript e React. :sparkles:
 
